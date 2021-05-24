@@ -1,5 +1,7 @@
 # 是MyBlog哟
 
+**已暂时停止更新**
+
 本页面为 是MyBlog哟 的展示页面，并非代码仓库
 
 是MyBlog哟，是作为我的博客：MyBlog(MqyGalaxy|Blog) 所使用的掌上阅读App
